@@ -21,5 +21,7 @@ To execute the gcard, just type:
 
 If everything is good you will see the simulation running :)
 ## Observations
+- All the double-target parts are sensitive type FLUX.
+- The liquid target has no sensitivity.
 - If the piezomotor is included in the dt-structure some *warnings* will appear when you execute GEMC. The warnings looks like this:
 >Polyhedron::SetReferences: List *SomeNumber* is not empty

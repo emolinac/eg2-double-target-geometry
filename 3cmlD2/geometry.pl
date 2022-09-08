@@ -91,7 +91,7 @@ sub build_targets
 
 		# Liquid deuterium
 		$nplanes = 5;
-		my @oradiusT  =  (   2.5,  0.8 * 10.3,  7.3, 5.0,  2.5);
+		my @oradiusT  =  (   2.5,  0.9 * 10.3,  7.3, 5.0,  2.5);
 		my @z_planeT  =  ( -14.2, -11.2, 12.5, 13.5, 14.5);
 
 		%detector = init_det();
@@ -191,7 +191,7 @@ sub build_targets
 
 		# Liquid deuterium
 		$nplanes = 5;
-		my @oradiusT  =  (   2.5,  0.8 * 10.3,  7.3, 5.0,  2.5);
+		my @oradiusT  =  (   2.5,  0.9 * 10.3,  7.3, 5.0,  2.5);
 		my @z_planeT  =  ( -14.2, -11.2, 12.5, 13.5, 14.5);
 
 		%detector = init_det();
@@ -291,7 +291,7 @@ sub build_targets
 
 		# Liquid deuterium
 		$nplanes = 5;
-		my @oradiusT  =  (   2.5,  0.8 * 10.3,  7.3, 5.0,  2.5);
+		my @oradiusT  =  (   2.5,  0.9 * 10.3,  7.3, 5.0,  2.5);
 		my @z_planeT  =  ( -14.2, -11.2, 12.5, 13.5, 14.5);
 
 		%detector = init_det();
@@ -391,7 +391,7 @@ sub build_targets
 
 		# Liquid deuterium
 		$nplanes = 5;
-		my @oradiusT  =  (   2.5,  0.8 * 10.3,  7.3, 5.0,  2.5);
+		my @oradiusT  =  (   2.5,  0.9 * 10.3,  7.3, 5.0,  2.5);
 		my @z_planeT  =  ( -14.2, -11.2, 12.5, 13.5, 14.5);
 
 		%detector = init_det();
@@ -491,7 +491,7 @@ sub build_targets
 
 		# Liquid deuterium
 		$nplanes = 5;
-		my @oradiusT  =  (   2.5,  0.8 * 10.3,  7.3, 5.0,  2.5);
+		my @oradiusT  =  (   2.5,  0.9 * 10.3,  7.3, 5.0,  2.5);
 		my @z_planeT  =  ( -14.2, -11.2, 12.5, 13.5, 14.5);
 
 		%detector = init_det();
@@ -540,7 +540,7 @@ sub build_targets
 
 
 		$nplanes = 5;
-		my @oradiusT  =  (   2.5,  0.8 * 10.3,  7.3, 5.0,  2.5);
+		my @oradiusT  =  (   2.5,  0.9 * 10.3,  7.3, 5.0,  2.5);
 		my @z_planeT  =  ( -14.2, -11.2, 12.5, 13.5, 14.5);
 
 		# actual target
