@@ -22,10 +22,11 @@
 	<volume name="ribbon"   mother="target" color="5C5B59" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="carbonFiber" sensitivity="flux" hitType="flux" identifiers="id manual 3 ribbon"/>
 
 	<!-- Ribbon -->
-	<volume name="piezomotor1"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
+	<!--<volume name="piezomotor1"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
 	<volume name="piezomotor2"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
 	<volume name="piezomotor3"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
 	<volume name="piezomotor4"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
 	<volume name="piezomotor5"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
 	<volume name="piezomotor6"   mother="target" color="D9DAD9" position="0*mm 0*mm -240*mm" rotation="0*deg 0*deg 0*deg" material="G4_Al" sensitivity="flux" hitType="flux" identifiers="id manual 3 piezomotor"/>
+	-->
 </gxml>
