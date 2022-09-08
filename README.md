@@ -14,8 +14,12 @@ Inside this file you can specify the configuration of the dt-structure. The foll
 - eg2-X-lD2 : Solid and liquid targets are present. X can be C, Cu, Al, Sn, Pb.
 
 The config is specified in the line:
-> <detector name="target"         factory="TEXT" variation="eg2-Pb-lD2"/>
+> detector name="target"         factory="TEXT" variation="eg2-Pb-lD2"/
 
+To execute the gcard, just type:
+> gemc test_run.gcard
+
+If everything is good you will see the simulation running :)
 ## Observations
 - If the piezomotor is included in the dt-structure some *warnings* will appear when you execute GEMC. The warnings looks like this:
 >Polyhedron::SetReferences: List *SomeNumber* is not empty
