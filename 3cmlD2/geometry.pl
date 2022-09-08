@@ -72,7 +72,7 @@ sub build_targets
 		print_det(\%configuration, \%detector);
 
 		# Solid target
-		my $thickness  = 2.2336/2.; # 0.3032
+		my $thickness  = 2.2336/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -132,7 +132,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 1.82/2.; # 0.3032
+		my $thickness  = 1.82/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -172,7 +172,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 1.82/2.; # 0.3032
+		my $thickness  = 1.82/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -232,7 +232,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 0.3619/2.; # 0.3032
+		my $thickness  = 0.3619/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -272,7 +272,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 0.3619/2.; # 0.3032
+		my $thickness  = 0.3619/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -332,7 +332,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 0.3032/2.; # 0.3032
+		my $thickness  = 0.3032/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -372,7 +372,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 0.3032/2.; # 0.3032
+		my $thickness  = 0.3032/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "solidSn";
@@ -432,7 +432,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 0.1409/2.; # 0.3032
+		my $thickness  = 0.1409/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "Pb";
@@ -472,7 +472,7 @@ sub build_targets
 		$detector{"style"}       = 0;
 		print_det(\%configuration, \%detector);
 
-		my $thickness  = 0.1409/2.; # 0.3032
+		my $thickness  = 0.1409/2.;
 		my $zpos       = 50;
 		my $radius     = 2.5;
 		$detector{"name"}        = "Pb";
