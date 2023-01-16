@@ -3,6 +3,7 @@
 	
 	<!-- other variations include: lH2, lD2, ND3, "elaborate"-->
 	<detector name="target"         factory="TEXT" variation="eg2-Pb-lD2"/>
+	<detector name="micromegas/micromegas" factory="TEXT" variation="michel"/>
 	<detector name="cad/"           factory="CAD"/>
 	<detector name="dt-structure/"  factory="CAD"/>
 
